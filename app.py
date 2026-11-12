@@ -3,3 +3,5 @@ def hello_world():
 
 
 hello_world()
+
+print("This is a simple Python application.")
